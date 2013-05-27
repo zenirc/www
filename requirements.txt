@@ -1,0 +1,5 @@
+Django==1.5.1
+django-discover-runner==0.4
+djangorestframework==2.3.4
+jsonschema==2.0.0
+semantic_version==2.2.0
